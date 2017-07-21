@@ -6,4 +6,3 @@ httplib2==0.9
 itsdangerous==0.24
 six==1.8.0
 twilio==3.6.9
-wsgiref==0.1.2
